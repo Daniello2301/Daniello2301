@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Daniello2301/Daniello2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,17 +33,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
 ### 📌 Proyectos Destacados  
-🔹 [**PROYECTO_INTEGRADO_IV**](https://github.com/Daniello2301/PROYECTO_INTEGRADO_IV) - Análisis de datos con Jupyter Notebook.  
-🔹 [**labs_upb_client**](https://github.com/Daniello2301/labs_upb_client) - Cliente en TypeScript para laboratorio UPB.  
-🔹 [**ConciliaMax**](https://github.com/Daniello2301/ConciliaMax) - Sistema de conciliación bancaria educativo.  
+🔹 [**EVOT Project**](https://github.com/Daniello2301/EVOT-Fronted) - Proyecto para gestionar las los documentos institucionales de una persona (Proyecto Personal).  
+🔹 [**InstaYa**](https://github.com/Daniello2301/instaYa-Frontend) - Frontend para la aplicacion de envios InstaYa (proyecto Educativo).  
+🔹 [**ERP De la Universidad**](https://github.com/Daniello2301/FullStack_Inventario_Java-React) - Proyecto Fullstack para la gestion del inventario de la Universidad (Proyecto Educativo).  
 
 ---
 
@@ -57,8 +53,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Contacto  
-💼 [LinkedIn](https://www.linkedin.com/in/daniello2301/)  
-📧 **Correo:** tuemail@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-lopera-gomez-9bb1981b3/)  
+📧 **Correo:** loperagomezdaniel2301@gmail.com  
 
 ---
 
